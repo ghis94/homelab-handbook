@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# homelab-handbook
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenue dans le wiki du depot. Cette page est basee sur le contenu actuel du `README.md`.
 
-## Commands
+## Sommaire
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- Proxmox
+- Home Assistant
+- Chaudiere
 
-## Project layout
+## Proxmox
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Home Assistant
+
+## Chaudiere
