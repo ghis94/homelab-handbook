@@ -1,3 +1,4 @@
 site_name: homelab-handbook
 nav:
   - Accueil: index.md
+  - Home Assistant: home-assistant.md

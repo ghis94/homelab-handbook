@@ -1,15 +1,13 @@
 # homelab-handbook
 
-Bienvenue dans le wiki du depot. Cette page est basee sur le contenu actuel du `README.md`.
+Bienvenue dans le wiki du dépôt.
 
 ## Sommaire
 
-- Proxmox
-- Home Assistant
-- Chaudiere
+- [Proxmox](proxmox.md)
+- [Home Assistant](home-assistant.md)
+- [Chaudière](chaudiere.md)
 
-## Proxmox
+## Objectif
 
-## Home Assistant
-
-## Chaudiere
+Ce handbook sert de référence technique versionnée pour l’infra homelab : architecture, services, procédures d’exploitation et dépannage.
