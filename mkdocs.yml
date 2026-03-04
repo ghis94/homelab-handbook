@@ -4,5 +4,13 @@ nav:
   - Knowledge Base:
     - Méthode: knowledge-base.md
     - Stack recommandée: stack-recommandee.md
-  - Home Assistant: home-assistant.md
-  - Proxmox: proxmox.md
+  - Homelab:
+    - Réseau: homelab/network.md
+    - Proxmox: proxmox.md
+  - Home Assistant:
+    - Vue générale: home-assistant.md
+    - Chauffage Frisquet: home-assistant/chauffage-frisquet.md
+  - IA:
+    - Frigate: ia/frigate.md
+  - Incidents:
+    - Journal: incidents/incidents.md
