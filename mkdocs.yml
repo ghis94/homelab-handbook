@@ -1,4 +1,8 @@
 site_name: homelab-handbook
 nav:
   - Accueil: index.md
+  - Knowledge Base:
+    - Méthode: knowledge-base.md
+    - Stack recommandée: stack-recommandee.md
   - Home Assistant: home-assistant.md
+  - Proxmox: proxmox.md
