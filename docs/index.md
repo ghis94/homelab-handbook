@@ -21,5 +21,7 @@ Avoir une source unique, versionnée et exploitable par IA pour :
 
 - [Knowledge Base — Méthode](knowledge-base.md)
 - [Stack recommandée](stack-recommandee.md)
+- [Homelab — Accueil](homelab/accueil.md)
 - [Home Assistant](home-assistant.md)
 - [Proxmox](proxmox.md)
+- [Incidents](incidents/incidents.md)

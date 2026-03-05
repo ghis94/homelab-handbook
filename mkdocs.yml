@@ -5,6 +5,7 @@ nav:
     - Méthode: knowledge-base.md
     - Stack recommandée: stack-recommandee.md
   - Homelab:
+    - Accueil: homelab/accueil.md
     - Réseau: homelab/network.md
     - Proxmox: proxmox.md
   - Home Assistant:
